@@ -1,2 +1,2 @@
-# STM32-experiment
+# smart-ammunition-experiment
 智能弹药实验
