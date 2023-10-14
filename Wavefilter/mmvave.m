@@ -1,4 +1,4 @@
-data = load('haomibo.mat');  % 假设您的数据存储在变量名haomibo中
+data = load('haomibo.mat');
 data = struct2array(data);
 
 order = 3000;
